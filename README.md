@@ -6,4 +6,4 @@ There are two methods
 1. One is simple code without SRP
 2. Second is with SRP 
 
-Credit goes to : Sir Tim Corey :)
+Special Thanks to : Sir Tim Corey :)
